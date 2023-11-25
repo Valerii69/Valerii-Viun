@@ -21,7 +21,7 @@
 <!-- hero -->
 ### About Me :
 I am a Full Stack Developer from Ukraine,  Kyiv.
-- :open_book: I’m currently learning React, Java Script, HTML5, NODE, TypeScript, CSS3, SCSS, SASS.
+- :open_book: I have learned React, Java Script, HTML5, NODE, TypeScript, CSS3, SCSS, SASS.
 - :open_book: Love studing and sharing knowledge.
 - :open_book: Diving is one of my favourite hobbies.
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-viun-32410380/)
